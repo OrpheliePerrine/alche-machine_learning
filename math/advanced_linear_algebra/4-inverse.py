@@ -1,5 +1,5 @@
-
-f a matrix"""
+#!/usr/bin/env python3
+"""Inverse of a matrix"""
 
 
 def determinant(matrix):
